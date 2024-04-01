@@ -1,0 +1,20 @@
+.main-manu a:hover{
+    color: white!important;
+    background-color: green;
+}
+.main-card{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    
+}
+
+.choity{
+    color: #05541b;
+}
+.aka{
+    color: #05541b;
+}
+.tusher p{
+    text-align: justify;
+}
